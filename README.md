@@ -61,6 +61,5 @@ _Período: 2022 - 2024_
 ## 🔗 Conecte-se Comigo
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bbeltrame01.github.io/MeuSite/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-beltrame/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bbeltrame01)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bruno.beltrame)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.beltrame7@gmail.com)
