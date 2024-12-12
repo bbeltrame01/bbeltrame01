@@ -47,12 +47,6 @@ _Período: 2022 - 2024_
 ![Firebase](https://img.shields.io/badge/Firebird-000?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📌 Projetos em Destaque
-[![VirtualVoiceAssistant](https://github-readme-stats.vercel.app/api/pin/?username=bbeltrame01&repo=VirtualVoiceAssistant)](https://github.com/bbeltrame01/VirtualVoiceAssistant)
-[![YoutubeVideoDownloader](https://github-readme-stats.vercel.app/api/pin/?username=bbeltrame01&repo=YoutubeVideoDownloader)](https://github.com/bbeltrame01/YoutubeVideoDownloader)
-[![Tasks](https://github-readme-stats.vercel.app/api/pin/?username=bbeltrame01&repo=Tasks)](https://github.com/bbeltrame01/Tasks)
-[![TestesUnitarios](https://github-readme-stats.vercel.app/api/pin/?username=bbeltrame01&repo=TestesUnitarios)](https://github.com/bbeltrame01/TestesUnitarios)
-
 ## 🚀 Linguagens Mais Usadas
 ![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bbeltrame01&theme=transparent)
 ![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bbeltrame01&theme=transparent)
